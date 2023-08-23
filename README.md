@@ -1,2 +1,2 @@
 # Orange Office
-## The Digital Office
+## The Digital Company
